@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ID Star Maker GUI</title>
 </head>
 <body>
     <h1>ID Star Maker GUI</h1>

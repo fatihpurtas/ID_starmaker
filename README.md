@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <h1>ID Star Maker GUI</h1>
-    <p>ID Star Maker GUI is a Python script that adds stars (*) to the middle 7 numbers of each 11-digit ID in a text file. It provides a simple graphical user interface (GUI) to facilitate the process.</p>
+    <h1>ID Star Maker</h1>
+    <p>ID Star Maker is a Python script that adds stars (*) to the middle 7 numbers of each 11-digit ID in a text file. It provides a simple graphical user interface (GUI) to facilitate the process.</p>
     <h2>Features</h2>
     <ul>
         <li><strong>File Selection:</strong> Users can select a text file containing a list of 11-digit IDs.</li>
